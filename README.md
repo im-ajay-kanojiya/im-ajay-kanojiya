@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ajaykanojiya2k@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vy-c5dnfrHXErmt4dwBQsge43ch-PhVg/view?usp=drive_link](https://drive.google.com/file/d/1Vy-c5dnfrHXErmt4dwBQsge43ch-PhVg/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Vy-c5dnfrHXErmt4dwBQsge43ch-PhVg/view?usp=drive_link](https://drive.google.com/file/d/1GT7StrFPnc0Ah2Sk9LIV3g8Jgne6qMOM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
