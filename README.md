@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **supervised, unsupervised, NLP**
+- 🌱 I’m currently learning **Supervised, Unsupervised, NLP, Deep Learning **
 
 - 📝 I regularly write articles on [https://medium.com/@ajaykanojiya2k](https://medium.com/@ajaykanojiya2k)
 
