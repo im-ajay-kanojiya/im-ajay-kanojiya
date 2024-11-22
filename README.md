@@ -5,7 +5,7 @@
 
 <img align="right" alt = "coding" width = "400" src ="https://camo.githubusercontent.com/7f8bb3190999081788a39ae09c4d161f9d67f450c6e8b7ab2104888a80083609/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966">
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science and Machine Learning**
 
 - 🌱 I’m currently learning **Supervised, Unsupervised, NLP, Deep Learning **
 
