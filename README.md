@@ -5,15 +5,12 @@
 
 <img align="right" alt = "coding" width = "400" src ="https://camo.githubusercontent.com/7f8bb3190999081788a39ae09c4d161f9d67f450c6e8b7ab2104888a80083609/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966">
 
-- 🔭 I’m currently working on **Data Science and Machine Learning**
+- 🔭 Currently working at **CMSS** as a **Full Stack Software Developer**  
+- 🌱 Exploring **Supervised & Unsupervised ML, NLP, and Deep Learning**  
+- 📝 I share articles on [Medium](https://medium.com/@ajaykanojiya2k)  
+- 💬 Ask me about **Machine Learning, NumPy, MySQL, Python**  
+- 📫 Reach me at **ajaykanojiya2k@gmail.com**  
 
-- 🌱 I’m currently learning **Supervised, Unsupervised, NLP, Deep Learning **
-
-- 📝 I regularly write articles on [https://medium.com/@ajaykanojiya2k](https://medium.com/@ajaykanojiya2k)
-
-- 💬 Ask me about **Pandas, Numpy, MySql, Python.**
-
-- 📫 How to reach me **ajaykanojiya2k@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Vy-c5dnfrHXErmt4dwBQsge43ch-PhVg/view?usp=drive_link](https://drive.google.com/file/d/1GT7StrFPnc0Ah2Sk9LIV3g8Jgne6qMOM/view?usp=sharing)
 
